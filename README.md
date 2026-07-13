@@ -2,6 +2,10 @@
 
 Sistema de gerenciamento de armários inteligentes com comunicação Bluetooth Low Energy (BLE), interface administrativa avançada e layout dinâmico baseado em grid flexível.
 
+<p align="left">
+  <img src="assets/image.jpg" width="460">
+</p>
+
 ---
 
 # Visão Geral
